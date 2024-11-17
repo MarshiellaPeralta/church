@@ -1,0 +1,64 @@
+
+name: management_church
+description: "A Flutter project for church management and livestreaming."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^2.10.0
+  firebase_auth: ^4.20.0
+  firebase_database: ^10.1.7
+  http: ^1.2.0
+  cupertino_icons: ^1.0.6
+  google_maps_flutter: ^2.2.0
+  url_launcher: ^6.0.9
+  webview_flutter: ^2.0.13
+  webview_flutter_android: ^2.0.13
+  webview_flutter_wkwebview: ^2.9.5
+  table_calendar: ^3.0.9
+  intl: ^0.18.0
+  shared_preferences: ^2.0.13
+  flutter_webrtc: ^0.9.28
+  flutter_local_notifications: ^9.5.2
+  flutter_dotenv: ^5.0.2
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0 # Updated for Dart 3 support
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/ic_launcher.png"
+  adaptive_icon_background: "#FFA500"
+  adaptive_icon_foreground: "assets/ic_launcher.png"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/background00.jpg
+    - assets/background01.jpg
+    - assets/background02.jpg
+    - assets/background03.jpg
+    - assets/background04.jpg
+    - assets/background05.jpg
+    - assets/background000.jpg
+    - assets/background456.jpg
+    - assets/background77.jpg
+    - assets/backgroundloading.jpg
+    - assets/backgroundscreen.jpg
+    - assets/background555.jpg
+    - assets/mapbackground.jpg
+    - assets/luis.jpg
+    - assets/mex.jpg
+    - assets/ar.jpg
+    - assets/sa.jpg
+    - assets/sf-img.jpg

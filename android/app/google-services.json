@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "728673139082",
+    "firebase_url": "https://sanctisync-application-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sanctisync-application",
+    "storage_bucket": "sanctisync-application.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728673139082:android:c4c694879bcf5d7e76f073",
+        "android_client_info": {
+          "package_name": "com.example.management_church"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAclcVeNkqd17KqP29W1dPNUE4wQfkT1HE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
